@@ -1,0 +1,1 @@
+document.getElementById('container-loader').remove();
